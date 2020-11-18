@@ -2,9 +2,9 @@
 
 int main()
 {
-    std::cout << "Pozdrav svijete!\n";
-    std::cout << "Prvi commit.\n";
-    std::cout << "Collab commit.\n";
+    std::cout << "Hello world!\n";
+    std::cout << "First commit.\n";
+    std::cout << "Collab commit.\n"; //line added by lklein
     
     return 0;
 }
